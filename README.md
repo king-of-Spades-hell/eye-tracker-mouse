@@ -1,4 +1,4 @@
-# eye-tracker-mouse
+# EyeCurser
 # Eye-Controlled Mouse
 
 This project allows you to control your mouse cursor using eye tracking. The program uses OpenCV and MediaPipe to detect your facial landmarks and track your eye movements. When you blink, the program clicks the mouse.
